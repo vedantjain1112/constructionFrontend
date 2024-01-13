@@ -37,7 +37,7 @@ function Testimonial() {
               marginTop: "20px",
             }}
           >
-            Loading...
+            Hang on tight..
           </div>
         ) : (
           testimonials.map((testimonial) => (

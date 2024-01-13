@@ -23,7 +23,7 @@ function Service() {
               marginTop: "20px",
             }}
           >
-            Loading...
+            Hang on tight..
           </div>
         ) : (
           <ul className="cardContainer">

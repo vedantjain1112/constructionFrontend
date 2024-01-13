@@ -30,7 +30,7 @@ const Construction = () => {
           marginTop: "20px",
         }}
       >
-        Loading...
+        Hang on tight..
       </div>
     );
   }

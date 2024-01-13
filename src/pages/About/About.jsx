@@ -36,7 +36,7 @@ function About() {
             marginTop: "20px",
           }}
         >
-          Loading...
+          Hang on tight..
         </div>
       ) : (
         <div className="containerrrr">

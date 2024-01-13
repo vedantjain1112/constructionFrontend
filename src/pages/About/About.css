@@ -20,7 +20,7 @@
   margin: 0 auto;
   color: black;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 23px;
   font-family: "Lato", "Helvetica Neue";
 }
 
@@ -162,5 +162,15 @@
     margin: 0 auto;
     width: 150px;
     border: 3px solid #ffd700;
+  }
+
+  .aboutLoad {
+    font-size: 18px;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .aboutLoad {
+    font-size: 16px;
   }
 }
